@@ -156,17 +156,13 @@ Przepis reguluje w sposób przejściowy zakres czasowy dopuszczalności skargi n
 
 **Brzmienie przepisu:**
 
-> Art. 116. § 1. Kadencje rzeczników dyscyplinarnych sędziów sądów powszechnych, rzeczników dyscyplinarnych sędziów sądów wojskowych i ich zastępców, powołanych na podstawie przepisów ustawy zmienianej w art. 106 i ustawy zmienianej w art. 108, w brzmieniu dotychczasowym, wygasają po upływie 30 dni od dnia wejścia w życie niniejszej ustawy.
+> Art. 116. § 1. Kadencje rzeczników dyscyplinarnych sędziów sądów powszechnych, rzeczników dyscyplinarnych sędziów sądów wojskowych i ich zastępców, powołanych na podstawie przepisów ustawy zmienianej w art. 106⁽⁷⁾ i ustawy zmienianej w art. 108⁽⁸⁾, w brzmieniu dotychczasowym, wygasają po upływie 30 dni od dnia wejścia w życie niniejszej ustawy.
 >
-> § 2. Rzecznicy dyscyplinarni i ich zastępcy, o których mowa w § 1, pełnią obowiązki do czasu powołania rzeczników dyscyplinarnych i ich zastępców na podstawie przepisów ustawy zmienianej w art. 106 i ustawy zmienianej w art. 108, w brzmieniu nadanym niniejszą ustawą.
+> § 2. Rzecznicy dyscyplinarni i ich zastępcy, o których mowa w § 1, pełnią obowiązki do czasu powołania rzeczników dyscyplinarnych i ich zastępców na podstawie przepisów ustawy zmienianej w art. 106⁽⁷⁾ i ustawy zmienianej w art. 108⁽⁸⁾, w brzmieniu nadanym niniejszą ustawą.
 
-*Odnośnik w tekście jednolitym:* Artykuł 106 zawiera zmiany do ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych.
+*Odnośnik w tekście jednolitym* 7) Artykuł 106 zawiera zmiany do ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych.
 
-*Odnośnik w tekście jednolitym:* Artykuł 108 zawiera zmiany do ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych.
-
-*Odnośnik w tekście jednolitym:* Artykuł 106 zawiera zmiany do ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych.
-
-*Odnośnik w tekście jednolitym:* Artykuł 108 zawiera zmiany do ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych.
+*Odnośnik w tekście jednolitym* 8) Artykuł 108 zawiera zmiany do ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych.
 
 Przepis reguluje losy kadencji rzeczników dyscyplinarnych sędziów sądów powszechnych i wojskowych oraz ich zastępców w związku z wejściem w życie ustawy. Paragraf 1 przewiduje wygaśnięcie tych kadencji – dla osób powołanych na podstawie dotychczasowego brzmienia przepisów ustaw zmienianych niniejszą ustawą w art. 106 (Prawo o ustroju sądów wojskowych) i w art. 108 (Prawo o ustroju sądów powszechnych) – po upływie 30 dni od dnia wejścia w życie ustawy. Rozwiązanie to wiąże się z modyfikacją zasad powoływania i funkcjonowania rzeczników dyscyplinarnych wprowadzoną nowelizacjami dokonanymi tymi artykułami. Paragraf 2 ustanawia mechanizm przejściowy zapewniający ciągłość funkcjonowania rzecznictwa dyscyplinarnego: dotychczasowi rzecznicy i ich zastępcy pełnią swe obowiązki nadal, mimo wygaśnięcia kadencji, aż do czasu powołania nowych rzeczników i zastępców na podstawie znowelizowanych przepisów, co eliminuje ryzyko powstania luki organizacyjnej w systemie odpowiedzialności dyscyplinarnej sędziów w okresie przejściowym.
 
@@ -198,13 +194,9 @@ Przepis reguluje czasowy zakres stosowania art. 36 § 1 pkt 3 i 8 ustawy, wskazu
 
 **Brzmienie przepisu:**
 
-> Art. 119. Do sędziego, który przed dniem wejścia w życie niniejszej ustawy został ukarany karą dyscyplinarną lub któremu dwukrotnie zwrócono uwagę w trybie art. 37 § 4 ustawy zmienianej w art. 108 lub dwukrotnie wytknięto uchybienie w trybie art. 40 ustawy zmienianej w art. 108, stosuje się przepis art. 91a § 6 ustawy zmienianej w art. 108, w brzmieniu dotychczasowym, do czasu ustania określonego w nim skutku.
+> Art. 119. Do sędziego, który przed dniem wejścia w życie niniejszej ustawy został ukarany karą dyscyplinarną lub któremu dwukrotnie zwrócono uwagę w trybie art. 37 § 4 ustawy zmienianej w art. 108⁽⁸⁾ lub dwukrotnie wytknięto uchybienie w trybie art. 40 ustawy zmienianej w art. 108⁽⁸⁾, stosuje się przepis art. 91a § 6 ustawy zmienianej w art. 108⁽⁸⁾, w brzmieniu dotychczasowym, do czasu ustania określonego w nim skutku.
 
-*Odnośnik w tekście jednolitym:* Artykuł 108 zawiera zmiany do ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych.
-
-*Odnośnik w tekście jednolitym:* Artykuł 108 zawiera zmiany do ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych.
-
-*Odnośnik w tekście jednolitym:* Artykuł 108 zawiera zmiany do ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych.
+*Odnośnik w tekście jednolitym* 8) Artykuł 108 zawiera zmiany do ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych.
 
 Przepis reguluje utrzymanie w mocy skutków wcześniejszego ukarania dyscyplinarnego lub dwukrotnego zwrócenia uwagi bądź wytknięcia uchybienia wobec sędziów, wobec których zdarzenia te miały miejsce przed dniem wejścia w życie ustawy. Do takiego sędziego – ukaranego karą dyscyplinarną lub wobec którego dwukrotnie zastosowano tryb zwrócenia uwagi na podstawie art. 37 § 4 ustawy zmienianej w art. 108 (Prawo o ustroju sądów powszechnych) albo dwukrotnie wytknięto uchybienie w trybie art. 40 tej ustawy – stosuje się nadal dotychczasowe brzmienie art. 91a § 6 tejże ustawy, aż do ustania określonego w nim skutku (którym w tego rodzaju regulacjach bywa zwykle ograniczenie możliwości ubiegania się o określone stanowiska lub funkcje przez określony czas). Przepis realizuje zasadę kontynuacji skutków prawnych zdarzeń zaistniałych pod rządami poprzedniego stanu prawnego, zapobiegając sytuacji, w której zmiana ustawy skutkowałaby przedwczesnym wygaśnięciem konsekwencji wcześniejszych naruszeń dyscyplinarnych.
 
@@ -230,15 +222,15 @@ Przepis, pozostający w bliskim związku funkcjonalnym z art. 120, reguluje kwes
 
 > Art. 122. Do postępowań dyscyplinarnych prowadzonych na podstawie:
 >
-> 1) ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze, 2) ustawy z dnia 6 lipca 1982 r. o radcach prawnych, 3) ustawy z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych, 4) ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie, 5) ustawy z dnia 19 kwietnia 1991 r. o izbach aptekarskich, 6) ustawy zmienianej w art. 106, 7) ustawy zmienianej w art. 107, 8) ustawy z dnia 11 kwietnia 2001 r. o rzecznikach patentowych, 9) ustawy zmienianej w art. 108, 10) ustawy z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej, 11) ustawy z dnia 2 grudnia 2009 r. o izbach lekarskich, 12) ustawy z dnia 1 lipca 2011 r. o samorządzie pielęgniarek i położnych, 13) ustawy zmienianej w art. 110, 14) ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty – stosuje się przepisy dotychczasowe do zakończenia postępowania wyjaśniającego lub postępowania w instancji, w której się toczy.
+> 1) ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze, 2) ustawy z dnia 6 lipca 1982 r. o radcach prawnych, 3) ustawy z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych, 4) ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie, 5) ustawy z dnia 19 kwietnia 1991 r. o izbach aptekarskich, 6) ustawy zmienianej w art. 106⁽⁷⁾, 7) ustawy zmienianej w art. 107⁽⁹⁾, 8) ustawy z dnia 11 kwietnia 2001 r. o rzecznikach patentowych, 9) ustawy zmienianej w art. 108⁽⁸⁾, 10) ustawy z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej, 11) ustawy z dnia 2 grudnia 2009 r. o izbach lekarskich, 12) ustawy z dnia 1 lipca 2011 r. o samorządzie pielęgniarek i położnych, 13) ustawy zmienianej w art. 110⁽¹⁰⁾, 14) ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty – stosuje się przepisy dotychczasowe do zakończenia postępowania wyjaśniającego lub postępowania w instancji, w której się toczy.
 
-*Odnośnik w tekście jednolitym:* Artykuł 106 zawiera zmiany do ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych.
+*Odnośnik w tekście jednolitym* 7) Artykuł 106 zawiera zmiany do ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych.
 
-*Odnośnik w tekście jednolitym:* Artykuł 107 zawiera zmiany do ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.
+*Odnośnik w tekście jednolitym* 9) Artykuł 107 zawiera zmiany do ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.
 
-*Odnośnik w tekście jednolitym:* Artykuł 108 zawiera zmiany do ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych.
+*Odnośnik w tekście jednolitym* 8) Artykuł 108 zawiera zmiany do ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych.
 
-*Odnośnik w tekście jednolitym:* Artykuł 110 zawiera zmiany do ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze.
+*Odnośnik w tekście jednolitym* 10) Artykuł 110 zawiera zmiany do ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze.
 
 Przepis wprowadza przejściową zasadę stosowania przepisów dotychczasowych do postępowań dyscyplinarnych prowadzonych wobec przedstawicieli licznych zawodów zaufania publicznego oraz innych grup zawodowych, wymienionych w rozbudowanym, czternastopunktowym wyliczeniu ustaw korporacyjnych i branżowych – obejmującym między innymi adwokatów, radców prawnych, lekarzy weterynarii, notariuszy, aptekarzy, sędziów sądów wojskowych (ustawa zmieniana w art. 106), funkcjonariuszy i pracowników Instytutu Pamięci Narodowej (ustawa zmieniana w art. 107), rzeczników patentowych, sędziów sądów powszechnych (ustawa zmieniana w art. 108), diagnostów laboratoryjnych, lekarzy, pielęgniarki i położne, prokuratorów (ustawa zmieniana w art. 110) oraz fizjoterapeutów. Wspólną cechą tych postępowań jest to, że – mimo iż niniejsza ustawa nowelizuje częściowo regulacje dyscyplinarne dotyczące niektórych z wymienionych grup (przez zmiany dokonane w art. 106–110) – do postępowań już toczących się w chwili wejścia w życie ustawy stosuje się nadal przepisy dotychczasowe, i to aż do zakończenia postępowania wyjaśniającego lub postępowania w danej instancji, w której się ono toczy. Jest to typowy przejaw zasady ochrony postępowań w toku (tempus regit actum w ujęciu procesowym), zapobiegającej konieczności przerywania i przekształcania na nowych zasadach postępowań dyscyplinarnych będących już w zaawansowanym stadium, co mogłoby prowadzić do naruszenia praw procesowych obwinionych oraz do przewlekłości postępowań.
 
@@ -326,13 +318,11 @@ Przepis reguluje czasowe utrzymanie mocy obowiązującej dotychczasowych przepis
 
 **Brzmienie przepisu:**
 
-> Art. 129a. § 1. Przepis art. 37 § 1 stosuje się do sędziów Sądu Najwyższego, którzy objęli stanowisko sędziego Sądu Najwyższego po dniu wejścia w życie ustawy z dnia 21 listopada 2018 r. o zmianie ustawy o Sądzie Najwyższym (Dz. U. poz. 2507).
+> Art. 129a. § 1. Przepis art. 37 § 1 stosuje się do sędziów Sądu Najwyższego, którzy objęli stanowisko sędziego Sądu Najwyższego po dniu wejścia w życie ustawy z dnia 21 listopada 2018 r. o zmianie ustawy o Sądzie Najwyższym (Dz. U. poz. 2507)⁽¹¹⁾.
 >
-> § 2. Do sędziów Sądu Najwyższego, którzy objęli stanowisko sędziego Sądu Najwyższego przed dniem wejścia w życie ustawy z dnia 21 listopada 2018 r. o zmianie ustawy o Sądzie Najwyższym (Dz. U. poz. 2507) stosuje się przepis art. 30 ustawy uchylanej w art. 135.
+> § 2. Do sędziów Sądu Najwyższego, którzy objęli stanowisko sędziego Sądu Najwyższego przed dniem wejścia w życie ustawy z dnia 21 listopada 2018 r. o zmianie ustawy o Sądzie Najwyższym (Dz. U. poz. 2507)⁽¹¹⁾ stosuje się przepis art. 30 ustawy uchylanej w art. 135.
 
-*Odnośnik w tekście jednolitym:* Ustawa weszła w życie z dniem 1 stycznia 2019 r.
-
-*Odnośnik w tekście jednolitym:* Ustawa weszła w życie z dniem 1 stycznia 2019 r.
+*Odnośnik w tekście jednolitym* 11) Ustawa weszła w życie z dniem 1 stycznia 2019 r.
 
 Przepis reguluje zakres czasowego stosowania art. 37 § 1 ustawy (dotyczącego zapewne określonych obowiązków lub uprawnień sędziów Sądu Najwyższego) w związku z wcześniejszą nowelizacją tej ustawy dokonaną ustawą z dnia 21 listopada 2018 r. o zmianie ustawy o Sądzie Najwyższym. Paragraf 1 stanowi, że art. 37 § 1 stosuje się do sędziów Sądu Najwyższego, którzy objęli stanowisko po dniu wejścia w życie tej nowelizacji z 2018 r. Paragraf 2 reguluje sytuację odwrotną – wobec sędziów, którzy objęli stanowisko sędziego Sądu Najwyższego przed wejściem w życie wspomnianej nowelizacji, stosuje się nie nowy art. 37 § 1, lecz dawny art. 30 ustawy uchylanej w art. 135 (a więc ustawy z 2002 r. o Sądzie Najwyższym). Przepis ten realizuje zasadę ochrony praw nabytych i stabilności statusu sędziów powołanych pod rządami wcześniejszego stanu prawnego, różnicując zakres obowiązujących ich regulacji w zależności od momentu objęcia urzędu. Zgodnie z urzędowym przypisem do tekstu jednolitego, ustawa z dnia 21 listopada 2018 r. o zmianie ustawy o Sądzie Najwyższym weszła w życie z dniem 1 stycznia 2019 r., co stanowi datę graniczną rozróżniającą oba reżimy prawne przewidziane w § 1 i § 2.
 
@@ -394,8 +384,8 @@ Przepis zamyka merytoryczną część ustawy klasyczną klauzulą derogacyjną, 
 
 **Brzmienie przepisu:**
 
-> Art. 136. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+> Art. 136. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia⁽¹²⁾.
 
-*Odnośnik w tekście jednolitym:* Ustawa została ogłoszona w dniu 2 stycznia 2018 r.
+*Odnośnik w tekście jednolitym* 12) Ustawa została ogłoszona w dniu 2 stycznia 2018 r.
 
 Przepis zawiera klasyczną klauzulę o wejściu w życie ustawy, przewidującą typowe dla aktów tej rangi vacatio legis w wymiarze trzech miesięcy od dnia ogłoszenia. Zgodnie z urzędowym przypisem do tekstu jednolitego, ustawa została ogłoszona w dniu 2 stycznia 2018 r., co pozwala precyzyjnie wyznaczyć datę wejścia w życie ustawy przypadającą na kwiecień 2018 r. Stosunkowo długi, trzymiesięczny okres vacatio legis miał na celu umożliwienie organom państwa – w szczególności Sądowi Najwyższemu, Prezydentowi Rzeczypospolitej Polskiej, Krajowej Radzie Sądownictwa oraz Senatowi – odpowiedniego przygotowania się do wdrożenia rozległych zmian organizacyjnych, kadrowych i proceduralnych wprowadzanych ustawą, w tym w szczególności utworzenia nowych izb Sądu Najwyższego, przeprowadzenia procedur nominacyjnych oraz wyboru pierwszych ławników.
